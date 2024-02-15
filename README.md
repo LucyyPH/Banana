@@ -1,4 +1,6 @@
 # Banana
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Banana corp is a banana selling webpage.</h3>
 
