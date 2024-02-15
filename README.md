@@ -1,12 +1,8 @@
 # Banana
-<h1 align="center">Hi 👋, I'm Rushi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Banan corp is a banana selling webpage.</h3>
 
-- 👨‍💻 All of my projects are available at [https://dev-jomar-sico-portfolio.netlify.app](https://dev-jomar-sico-portfolio.netlify.app)
 
-- 📫 How to reach me **sico.arellano@gmail.com**
-
-- ⚡ Fun fact **I like Ducks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
